@@ -9,7 +9,7 @@ description = "Payment run processing utilities"
 requires-python = ">=3.9"
 dependencies = []
 authors = [{ name = "Miguel Bendito", email = "miguel.bendito02@gmail.com" }]
-license = { text = "MIT" }   # or whatever you intend
+license = { text = "MIT" }
 readme = "README.md"
 
 [tool.pytest.ini_options]
