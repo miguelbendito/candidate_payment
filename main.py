@@ -8,7 +8,7 @@ def load_candidates(filepath):
         return json.load(f)
 
 def main():
-    data_path = Path(__file__).parent / 'data' / 'candidates.json'
+    data_path = Path(__file__).parent / 'data' / 'cleaned_candidates.json'
     candidates = load_candidates(data_path)
 
     results = list(run99_stream(candidates))

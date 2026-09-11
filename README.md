@@ -15,7 +15,7 @@ A small python library that determines eligibility, payment amount and aggregati
 import json
 from candidate_payment import run99_stream, count_candidates, paid_count, highest_payment
 
-with open("data/candidates.json") as f:
+with open("data/cleaned_candidates.json") as f:
     candidates = json.load(f)
 
 results = list(run99_stream(candidates))

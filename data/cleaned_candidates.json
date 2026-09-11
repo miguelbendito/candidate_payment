@@ -1,0 +1,1162 @@
+[
+  {
+    "candidateId": "3047",
+    "candidateName": "Hierrezuelo, Wilfredo",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2618",
+    "candidateName": "Sliwa, Curtis",
+    "totalPayment": 1158547,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "296",
+    "candidateName": "Hoylman-sigal, Brad",
+    "totalPayment": 30573,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2259",
+    "candidateName": "Stevens, Althea",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2243",
+    "candidateName": "Abreu, Shaun",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2267",
+    "candidateName": "Hudson, Crystal",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2833",
+    "candidateName": "Ikezi, Henry",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2988",
+    "candidateName": "Acquafredda, Janine",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2246",
+    "candidateName": "Joseph, Rita",
+    "totalPayment": 0,
+    "isPriorDebt": true,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2923",
+    "candidateName": "Thomas-henry, Shanel",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2740",
+    "candidateName": "Kane, Nickie",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2965",
+    "candidateName": "Kefalas, Peter",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1545",
+    "candidateName": "Adams, Eric",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2206",
+    "candidateName": "Krishnan, Shekar",
+    "totalPayment": 10402,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2183",
+    "candidateName": "Tischler, Harold",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2453",
+    "candidateName": "Lee, Linda",
+    "totalPayment": 14630,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2343",
+    "candidateName": "Ung, Sandra",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2902",
+    "candidateName": "Aldebol, Shirley",
+    "totalPayment": 50236,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "311",
+    "candidateName": "Levine, Mark",
+    "totalPayment": 113059,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2940",
+    "candidateName": "Vaichunas, Alicia",
+    "totalPayment": 8930,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "504",
+    "candidateName": "Ariola, Joann",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2207",
+    "candidateName": "Louis, Farah",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2423",
+    "candidateName": "Vernikov, Inna",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2842",
+    "candidateName": "Malave, Ismael",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3011",
+    "candidateName": "Athayde, Kyle",
+    "totalPayment": 17898,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2956",
+    "candidateName": "Wang, Allen",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2909",
+    "candidateName": "Maloney, Virginia",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2306",
+    "candidateName": "Aviles, Alexa",
+    "totalPayment": 760,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3025",
+    "candidateName": "Wang, Steven",
+    "totalPayment": 5966,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2899",
+    "candidateName": "Mamdani, Zohran",
+    "totalPayment": 1029721,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2274",
+    "candidateName": "Willabus, Dimple",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1683",
+    "candidateName": "Banks, Christopher",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2763",
+    "candidateName": "Marmorato, Kristy",
+    "totalPayment": 67953,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1846",
+    "candidateName": "Williams, Jomo",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2891",
+    "candidateName": "Blas, Sarah",
+    "totalPayment": 39063,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2777",
+    "candidateName": "Marrero, Grace",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1227",
+    "candidateName": "Williams, Jumaane",
+    "totalPayment": 22105,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3010",
+    "candidateName": "Bonsell, Alina",
+    "totalPayment": 72922,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1987",
+    "candidateName": "Marte, Christopher",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2285",
+    "candidateName": "Williams, Nantasha",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "846",
+    "candidateName": "Mealy, Darlene",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2312",
+    "candidateName": "Bottcher, Erik",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2380",
+    "candidateName": "Won, Julie",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "399",
+    "candidateName": "Brewer, Gale",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1529",
+    "candidateName": "Menin, Julie",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2942",
+    "candidateName": "Wong, Phil",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1624",
+    "candidateName": "Brooks-powers, Selvena",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2758",
+    "candidateName": "Zhuang, Susan",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2971",
+    "candidateName": "Buthorn, John",
+    "totalPayment": 9880,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2620",
+    "candidateName": "Mohan, Radhakrishna",
+    "totalPayment": 18772,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2436",
+    "candidateName": "Caban, Tiffany",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2949",
+    "candidateName": "Morano, Frank",
+    "totalPayment": 10802,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2382",
+    "candidateName": "Carr, David",
+    "totalPayment": 4180,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2636",
+    "candidateName": "Morgan, Matthew",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2856",
+    "candidateName": "Murillo, Jason",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2973",
+    "candidateName": "Chou, Benjamin",
+    "totalPayment": 123584,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1159",
+    "candidateName": "Narcisse, Mercedes",
+    "totalPayment": 69981,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3027",
+    "candidateName": "Chou, Joseph",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2310",
+    "candidateName": "Nurse, Sandy",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2788",
+    "candidateName": "Chow, Bernard",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2836",
+    "candidateName": "Okporo, Edafe",
+    "totalPayment": 12616,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2996",
+    "candidateName": "Clarke, Athena",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2371",
+    "candidateName": "Osse, Chi",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2898",
+    "candidateName": "Colombo, Michael",
+    "totalPayment": 21067,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2750",
+    "candidateName": "Pacheco, Ricardo",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2908",
+    "candidateName": "Colon, Federico",
+    "totalPayment": 7220,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2384",
+    "candidateName": "Paladino, Vickie",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2993",
+    "candidateName": "Cuomo, Andrew",
+    "totalPayment": 2329463,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2789",
+    "candidateName": "Qiu, Helen",
+    "totalPayment": 68081,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2349",
+    "candidateName": "De la rosa, Carmen",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2929",
+    "candidateName": "Quero, Luis",
+    "totalPayment": 12616,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2455",
+    "candidateName": "Restler, Lincoln",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2966",
+    "candidateName": "Diaz, Elijah",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1550",
+    "candidateName": "Reynoso, Antonio",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2192",
+    "candidateName": "Dinowitz, Eric",
+    "totalPayment": 9211,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1190",
+    "candidateName": "Richards, Donovan",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2879",
+    "candidateName": "Dolan, Martin",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2785",
+    "candidateName": "Duran, Gonzalo",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2327",
+    "candidateName": "Riley, Kevin",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2905",
+    "candidateName": "El-gamasy, Hatem",
+    "totalPayment": 40485,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2843",
+    "candidateName": "Encarnacion, Elsie",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2786",
+    "candidateName": "Rinaldi, Jonathan",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2860",
+    "candidateName": "Epstein, Harvey",
+    "totalPayment": 2280,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1290",
+    "candidateName": "Rivera, Joel",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2367",
+    "candidateName": "Robertson, Hector",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2720",
+    "candidateName": "Estrada, Irene",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2904",
+    "candidateName": "Romeo, Dominick",
+    "totalPayment": 61659,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1945",
+    "candidateName": "Farias, Amanda",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3033",
+    "candidateName": "Rosenberger, Benny",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "313",
+    "candidateName": "Felder, Simcha",
+    "totalPayment": 48046,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2622",
+    "candidateName": "Ryan, Allie",
+    "totalPayment": 1596,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2311",
+    "candidateName": "Feliz, Oswald",
+    "totalPayment": 19266,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2756",
+    "candidateName": "Salaam, Yusef",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2029",
+    "candidateName": "Sanchez, Justin",
+    "totalPayment": 6080,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3037",
+    "candidateName": "Findlay, Emmanuel",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2348",
+    "candidateName": "Sanchez, Pierina",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2721",
+    "candidateName": "Fossella, Vito",
+    "totalPayment": 28614,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2918",
+    "candidateName": "Santosuosso, Kayla",
+    "totalPayment": 113995,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2926",
+    "candidateName": "Frias, Ramses",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2972",
+    "candidateName": "Sarantopoulos, George",
+    "totalPayment": 148489,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "283",
+    "candidateName": "Gennaro, James",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2928",
+    "candidateName": "Schargel, Gail",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1707",
+    "candidateName": "Gibson, Vanessa",
+    "totalPayment": 9291,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "433",
+    "candidateName": "Schulman, Lynn",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3055",
+    "candidateName": "Gomez, Rolando",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3031",
+    "candidateName": "Shaffer, Yehuda",
+    "totalPayment": 17526,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3046",
+    "candidateName": "Goodman, Tyreek",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2998",
+    "candidateName": "Shea, John",
+    "totalPayment": 40812,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2357",
+    "candidateName": "Gutierrez, Jennifer",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2974",
+    "candidateName": "Hagen, Clifford",
+    "totalPayment": 5396,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2256",
+    "candidateName": "Hanif, Shahana",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2867",
+    "candidateName": "Hankerson, Tyrell",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "1996",
+    "candidateName": "Hanks, Kamillah",
+    "totalPayment": 62282,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": true,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "2738",
+    "candidateName": "Haque, Shah",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3038",
+    "candidateName": "Healy, John",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": false,
+    "payOverride": false
+  },
+  {
+    "candidateId": "3034",
+    "candidateName": "Hernandez, Joseph",
+    "totalPayment": 0,
+    "isPriorDebt": false,
+    "isOnBallot": true,
+    "thresholdMet": false,
+    "isSon": true,
+    "payOverride": false
+  }
+]
