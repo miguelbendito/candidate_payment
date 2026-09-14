@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
-from contextlib import contextmanager
 from candidate_payment import run99_stream, count_candidates, highest_payment, select_fields, get_one_candidate, paid_count, first_n
+from candidate_payment.export import export_to_csv
 
 def load_candidates(filepath):
     with open(filepath, 'r') as f:
@@ -18,6 +18,8 @@ def main():
     print(f"Highest payment: {highest_payment(results)}")
     print("Sample output:")
     print(select_fields(first_n(results, 5), ['candidateId', 'paymentAmount', 'isEligible', 'errorCodes']))
+    file_name = Path.home() / "Desktop" / "payment_results.csv"
+    export_to_csv(results, file_name)
 
 if __name__ == '__main__':
     main()
